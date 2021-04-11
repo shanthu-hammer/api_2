@@ -3,7 +3,7 @@
 A simple Flutter News application which fetches data from an API. 
 
 https://app.quicktype.io/ is used to the Build the model. 
-
+API:  https://newsapi.org/
 http://jsonviewer.stack.hu/
 
 
