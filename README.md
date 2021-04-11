@@ -1,8 +1,11 @@
 # api_2
 
-A new Flutter application.
+A simple Flutter News application which fetches data from an API. 
 
-## Getting Started
+https://app.quicktype.io/ is used to the Build the model. 
+
+http://jsonviewer.stack.hu/
+
 
 This project is a starting point for a Flutter application.
 
